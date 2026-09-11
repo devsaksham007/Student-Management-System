@@ -1,5 +1,17 @@
 # Student Management System Examples
 
+## Student Management System
+
+The student manager stores roll number, name, and marks in `students.csv`.
+It supports adding, searching, deleting, and displaying students. Changes are
+written to the CSV file immediately.
+
+Run it with:
+
+```text
+python student_management.py
+```
+
 ## JSON File Reader
 
 The JSON reader loads a JSON file and prints its contents with readable

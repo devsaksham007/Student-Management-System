@@ -1,14 +1,15 @@
-# Word Counter from Text File
+# Contact Book Using a Dictionary
 
-This program counts the words, lines, and characters in a UTF-8 text file.
+This program stores contacts in a Python dictionary. It can add, search, update,
+delete, and display contacts.
 
 Run it with:
 
 ```text
-python word_counter.py
+python contact_book.py
 ```
 
-Enter the path to the text file when prompted. Tests can be run with:
+Choose an option from the menu when prompted. Tests can be run with:
 
 ```text
 python -m unittest
